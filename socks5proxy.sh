@@ -35,4 +35,3 @@ sudo systemctl start gost
 
 # 打印服务状态和socks字段
 systemctl status gost
-echo "socks5://$IP_ADDRESS:18080:baofu:Aa362202"
